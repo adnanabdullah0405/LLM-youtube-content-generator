@@ -1,5 +1,5 @@
 
-# 🎥 LLM YouTube Content Generator – LangChain Workflow
+# 🎥 LLM YouTube Descrption Generator – LangChain Workflow
 
 ## 📌 Overview
 
