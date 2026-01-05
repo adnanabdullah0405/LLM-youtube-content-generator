@@ -1,9 +1,9 @@
 
-# 🎥 LLM YouTube Descrption Generator – LangChain Workflow
+# 🎥 LLM YouTube Descrption Generator – LangGraph Workflow
 
 ## 📌 Overview
 
-This project implements a **complete end-to-end AI workflow** to automate metadata generation for YouTube videos using **Large Language Models (LLMs)** and **LangChain**. Built during my internship at **Oladoc**, the system processes a YouTube video, extracts and refines the transcript, and generates optimized content including:
+This project implements a **complete end-to-end AI workflow** to automate descrption generation for YouTube videos using **Large Language Models (LLMs)** and **LangGraph workflow**. Built during my internship at **Oladoc**, the system processes a YouTube video, extracts and refines the transcript, and generates optimized content including:
 
 - 🎯 Video Title
 - 📝 Description (using structured template)
